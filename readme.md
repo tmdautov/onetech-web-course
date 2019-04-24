@@ -1,6 +1,10 @@
 # Курс "Разработка WEB приложений на Angular"
 
-Курс расчитан для начинающих веб разработчиков, цель которого — научить разрабатывать веб приложения на Angular фреймворке. Желательно, чтобы вы уже имели базовые основы HTML/CSS/JS. Курс состоит из трех частей: компоненты и компонентный подход, формы и навигация, подключение сторонних библиотек и тестирование.
+[TOC]
+
+## Введение
+
+Курс расcчитан для начинающих веб разработчиков, цель которого — научить разрабатывать веб приложения на Angular фреймворке. Желательно, чтобы вы уже имели базовые основы HTML/CSS/JS. Курс состоит из трех частей: компоненты и компонентный подход, формы и навигация, подключение сторонних библиотек и тестирование.
 
 В мире фронтенд разработки все стремительно быстро меняется, мы будем использовать самые последние версии фреймворка и окружающих его библиотек. 
 
@@ -22,6 +26,25 @@
 - ноутбук
 - базовые знания HTML/CSS/JS
 - дисциплинированность посещения занятий и хорошее настроение
+
+
+
+## Файлы курса
+
+| #    | Lesson       | Презентация                                                  | Лекция | Задачи                                                       |
+| ---- | ------------ | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ |
+| 1    | Introduction | [link](https://docs.google.com/presentation/d/1MkUjDqqeM1NFsbUzsGRLRoQYKe_O-iV3eFSJrHXzP7s/edit#slide=id.p) | link   | [link](https://github.com/tmdautov/onetech-web-course/blob/master/01_introduction/introduction.md#%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D1%83%D1%87%D0%B0%D1%89%D0%B5%D0%B3%D0%BE%D1%81%D1%8F) |
+| 2    | Components   | [link](https://docs.google.com/presentation/d/15pYvrkMvSx4bhzUQBfgPTp0S4lBmozSoc1Sv7Ui2-RE/edit#slide=id.p) | link   |                                                              |
+| 3    | Directives   | [link](https://docs.google.com/presentation/d/1Jcu6A0sDvdhNY0_5v5peUOyvxWTZbN4DI2u0yFZdUIw/edit#slide=id.p) | link   |                                                              |
+| 4    | Services     | link                                                         | link   |                                                              |
+| 5    | Routing      | link                                                         | link   |                                                              |
+| 6    | Forms        | link                                                         | link   |                                                              |
+| 7    | HTTP         | link                                                         | link   |                                                              |
+| 8    | RxJS         |                                                              |        |                                                              |
+
+
+
+
 
 
 
