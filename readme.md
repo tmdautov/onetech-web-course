@@ -29,26 +29,26 @@
 
 
 
-## Файлы курса
+## Силлабус
 
-| №    | Лекция                           | Презентация                                                  | Лекция | Задачи                                                       |
-| ---- | -------------------------------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ |
-| 1    | Introduction                     | [link](https://docs.google.com/presentation/d/1MkUjDqqeM1NFsbUzsGRLRoQYKe_O-iV3eFSJrHXzP7s/edit#slide=id.p) | link   | [link](https://github.com/tmdautov/onetech-web-course/blob/master/01_introduction/introduction.md#%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D1%83%D1%87%D0%B0%D1%89%D0%B5%D0%B3%D0%BE%D1%81%D1%8F) |
-| 2    | Components                       | [link](https://docs.google.com/presentation/d/15pYvrkMvSx4bhzUQBfgPTp0S4lBmozSoc1Sv7Ui2-RE/edit#slide=id.p) | link   |                                                              |
-| 3    | Pipes                            |                                                              |        |                                                              |
-| 4    | Directives                       | [link](https://docs.google.com/presentation/d/1Jcu6A0sDvdhNY0_5v5peUOyvxWTZbN4DI2u0yFZdUIw/edit#slide=id.p) | link   |                                                              |
-| 5    | Сервисы и внедрение зависимостей | link                                                         | link   |                                                              |
-| 6    | Routing                          | link                                                         | link   |                                                              |
-| 7    | Forms                            | link                                                         | link   |                                                              |
-| 8    | HTTP                             | link                                                         | link   |                                                              |
-| 9    | RxJS                             |                                                              |        |                                                              |
-| 10   | Unit tests                       |                                                              |        |                                                              |
-| 11   | NgRx                             |                                                              |        |                                                              |
-| 12   | Page speed optimisations         |                                                              |        |                                                              |
-| 13   | Typescript                       |                                                              |        |                                                              |
-| 14   | Webpack                          |                                                              |        |                                                              |
-| 15   | Change detection                 |                                                              |        |                                                              |
-| 16   | JWT авторизация                  |                                                              |        |                                                              |
+| №    | Тема урока                                                   | Презентация                                                  | Лекция                                                       | Задачи                                                       |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | Introduction: архитектура Angular, Angular CLI               | [link](https://docs.google.com/presentation/d/1MkUjDqqeM1NFsbUzsGRLRoQYKe_O-iV3eFSJrHXzP7s/edit#slide=id.p) | [link](https://github.com/tmdautov/onetech-web-course/blob/master/01_introduction/introduction.md) | [link](https://github.com/tmdautov/onetech-web-course/blob/master/01_introduction/introduction.md#%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D1%83%D1%87%D0%B0%D1%89%D0%B5%D0%B3%D0%BE%D1%81%D1%8F) |
+| 2    | Components: @Input, @Output,                                 | [link](https://docs.google.com/presentation/d/15pYvrkMvSx4bhzUQBfgPTp0S4lBmozSoc1Sv7Ui2-RE/edit#slide=id.p) | link                                                         |                                                              |
+| 3    | Pipes: async pipe, pure inpure pipe                          |                                                              |                                                              |                                                              |
+| 4    | Директивы: структурные и атрибутные директивы                | [link](https://docs.google.com/presentation/d/1Jcu6A0sDvdhNY0_5v5peUOyvxWTZbN4DI2u0yFZdUIw/edit#slide=id.p) | link                                                         |                                                              |
+| 5    | Сервисы и внедрение зависимостей: HttpClient                 | link                                                         | link                                                         | jsonplaceholder                                              |
+| 6    | Routing: guards, resolvers, lazy loading                     | link                                                         | link                                                         | три страницы                                                 |
+| 7    | Forms: reactive forms, formGroup, formArray, formControl, валидация данных | link                                                         | link                                                         | форма авторизации                                            |
+| 8    | HTTP                                                         | link                                                         | link                                                         |                                                              |
+| 9    | RxJS: Subject, observable, mergeMap, pipe                    | link                                                         | link                                                         |                                                              |
+| 10   | Unit tests: test services, pipe, component                   | ссылка                                                       | ссылка                                                       |                                                              |
+| 11   | NgRx                                                         | ссылка                                                       | ссылка                                                       |                                                              |
+| 12   | Page speed optimisations                                     | ссылка                                                       | ссылка                                                       |                                                              |
+| 13   | Typescript: class, interface, types                          | ссылка                                                       | ссылка                                                       |                                                              |
+| 14   | Webpack                                                      | ссылка                                                       | ссылка                                                       | создание простого сборщика                                   |
+| 15   | Angular material                                             | ссылка                                                       | ссылка                                                       | разбор компонентов                                           |
+| 16   | Авторизация: jwt, oauth2                                     | ссылка                                                       | ссылка                                                       |                                                              |
 
 
 
