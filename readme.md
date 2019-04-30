@@ -32,18 +32,18 @@
 | №    | Тема урока                                                   | Презентация | Лекция | Задачи |
 | ---- | ------------------------------------------------------------ | ----------- | ------ | ------ |
 | 1    | Introduction: архитектура Angular, Angular CLI               | link        | link   | link   |
-| 2    | Компоненты: декораторы, parent-child interaction             | link        | link   | link   |
-| 3    | Pipes: async pipe, pure inpure pipe                          | link        | link   | link   |
-| 4    | Директивы: структурные и атрибутные директивы                | link        | link   | link   |
-| 5    | Сервисы и внедрение зависимостей: HttpClient                 | link        | link   | link   |
-| 6    | Routing: guards, resolvers, lazy loading                     | link        | link   | link   |
-| 7    | Forms: reactive forms, formGroup, formArray, formControl, валидация данных | link        | link   | link   |
-| 8    | HttpClient                                                   | link        | link   | link   |
-| 9    | RxJS: Subject, observable, mergeMap, pipe                    | link        | link   | link   |
-| 10   | Unit tests: тестирование сервисов, пайпов, компонент         | link        | link   | link   |
-| 11   | NgRx: reducers, actions, effects, stores                     | link        | link   | link   |
-| 12   | Стратегии оптимизации страницы                               | link        | link   | link   |
-| 13   | Typescript: class, interface, types                          | link        | link   | link   |
+| 2    | Typescript: class, interface, types                          |             |        |        |
+| 3    | Компоненты: декораторы, parent-child interaction             | link        | link   | link   |
+| 4    | Pipes: async pipe, pure inpure pipe                          | link        | link   | link   |
+| 5    | Директивы: структурные и атрибутные директивы                | link        | link   | link   |
+| 6    | Сервисы и внедрение зависимостей: HttpClient                 | link        | link   | link   |
+| 7    | Routing: guards, resolvers, lazy loading                     | link        | link   | link   |
+| 8    | Forms: reactive forms, formGroup, formArray, formControl, валидация данных | link        | link   | link   |
+| 9    | HttpClient                                                   | link        | link   | link   |
+| 10   | RxJS: Subject, observable, mergeMap, pipe                    | link        | link   | link   |
+| 11   | Unit tests: тестирование сервисов, пайпов, компонент         | link        | link   | link   |
+| 12   | NgRx: reducers, actions, effects, stores                     | link        | link   | link   |
+| 13   | Стратегии оптимизации cкорости загрузки страниц              | link        | link   | link   |
 | 14   | Webpack: создание простого сборщика                          | link        | link   | link   |
 | 15   | Angular material                                             | link        | link   | link   |
 | 16   | Авторизация: jwt, oauth2                                     | link        | link   | link   |
