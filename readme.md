@@ -43,7 +43,7 @@
 | 10   | RxJS: Subject, observable, mergeMap, pipe                    | link        | link   | link   |
 | 11   | Unit tests: тестирование сервисов, пайпов, компонент         | link        | link   | link   |
 | 12   | NgRx: reducers, actions, effects, stores                     | link        | link   | link   |
-| 13   | Стратегии оптимизации cкорости загрузки страниц              | link        | link   | link   |
+| 13   | Perfomance: стратегии оптимизации cкорости загрузки страниц  | link        | link   | link   |
 | 14   | Webpack: создание простого сборщика                          | link        | link   | link   |
 | 15   | Angular material                                             | link        | link   | link   |
 | 16   | Авторизация: jwt, oauth2                                     | link        | link   | link   |
