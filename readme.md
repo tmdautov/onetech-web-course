@@ -53,7 +53,7 @@
 
 ## Автор
 
-- Author: Timur Dautov,
+- author: Timur Dautov,
 - email: tmdautov@gmail.com
 - phone: +77088890334
 
