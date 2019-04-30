@@ -32,7 +32,7 @@
 | №    | Тема урока                                                   | Презентация | Лекция | Задачи |
 | ---- | ------------------------------------------------------------ | ----------- | ------ | ------ |
 | 1    | Introduction: архитектура Angular, Angular CLI               | link        | link   | link   |
-| 2    | Typescript: class, interface, types                          |             |        |        |
+| 2    | Typescript: class, interface, types                          | link        | link   | link   |
 | 3    | Компоненты: декораторы, parent-child interaction             | link        | link   | link   |
 | 4    | Pipes: async pipe, pure inpure pipe                          | link        | link   | link   |
 | 5    | Директивы: структурные и атрибутные директивы                | link        | link   | link   |
